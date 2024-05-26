@@ -86,4 +86,4 @@
 [关于进一步推动南武集团特色计划经济建设的意见(征求稿)](./memory/further_promoting_construction_of_planned_economy.md)
 
 #### 南武民主共和国中央发展规划委员会
-[关于在海実特区展开集团领导制实验性改革的方案](.memory/reform_of_group_leadership_system_in_kaijitsu.md)
+[关于在海実特区展开集团领导制实验性改革的方案](./memory/reform_of_group_leadership_system_in_kaijitsu.md)
