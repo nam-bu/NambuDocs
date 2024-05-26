@@ -1,11 +1,10 @@
 name: Build and Deploy
 on: [push]
 jobs:
-  job-name:
+  build-and-deploy:
     permissions:
       contents: write
       pages: write
-  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
