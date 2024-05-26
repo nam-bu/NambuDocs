@@ -52,6 +52,8 @@
 
 [山本碧羽](./wiki/yamamoto_hakuha.md)
 
+[户岸希节](./wiki/togishi_norikazu.md)
+
 ### 其它
 [本部市](./wiki/honbu_city.md)
 
