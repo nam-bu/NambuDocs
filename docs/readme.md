@@ -40,6 +40,14 @@
 
 [海実学生进步委员会](./wiki/kaijitsu_committee.md)
 
+[大南武帝国](./wiki/great_nambu_empire.md)
+
+[南武合众国](./wiki/united_nambu.md)
+
+[南武民主共和党](./wiki/nambu_democratic_republican_party.md)
+
+[武冢集团](./wiki/takarazuka_group.md)
+
 ### 人物相关
 [南武香淳](./wiki/nambu_kojun.md)
 
