@@ -64,7 +64,7 @@
 [户岸希节](./wiki/togishi_norikazu.md)
 
 ### 其它
-[本部市](./wiki/honbu_city.md)
+[本部都](./wiki/honbu_metropolis.md)
 
 [南武之歌](./wiki/song_of_nambu.md)
 
