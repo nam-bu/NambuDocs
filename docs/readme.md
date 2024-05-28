@@ -42,11 +42,13 @@
 
 [大南武帝国](./wiki/great_nambu_empire.md)
 
-[南武合众国](./wiki/united_nambu.md)
+[南武共和国](./wiki/nambu_republic.md)
 
 [南武民主共和党](./wiki/nambu_democratic_republican_party.md)
 
-[武冢集团](./wiki/takarazuka_group.md)
+[武塚国](./wiki/takezuka_koku.md)
+
+[武塚集团](./wiki/takezuka_group.md)
 
 ### 人物相关
 [南武香淳](./wiki/nambu_kojun.md)
