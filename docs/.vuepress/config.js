@@ -15,6 +15,9 @@ module.exports = {
             }, {
                 text: '南武记忆',
                 link: '/memory/',
+            }, {
+                text: '南武文学',
+                link: '/novels/',
             },
         ],
         sidebar: {
@@ -115,6 +118,18 @@ module.exports = {
                         }
                     ]
                 }
+            ],
+            '/novels/': [
+                {
+                    title: '南武朋克',
+                    children: [
+                        'nambu_punk_1'
+                    ]
+                },
+                {
+                    title: '其它作品',
+                    children: []
+                },
             ],
         },
     },
