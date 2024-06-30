@@ -40,10 +40,11 @@ module.exports = {
                 {
                     title: '国家相关',
                     children: [
+                        'nambu_liberation_revolutionary_front',
                         'nambu_democratic_republic',
                         'nambu_united_party',
                         'nambu_group',
-                        'progressivism',
+                        'nambu_progressivism',
                         'central_leadership',
                         'nambu_congress',
                         'central_government',
@@ -55,8 +56,7 @@ module.exports = {
                         'great_nambu_empire',
                         'nambu_republic',
                         'nambu_democratic_republican_party',
-                        'takezuka_koku',
-                        'takezuka_group'
+                        'nambu_liberation_revolutionary_front',
                     ]
                 },
                 {
@@ -67,7 +67,8 @@ module.exports = {
                         'hayashi_fuyu',
                         'hisazaki_fumikuni',
                         'yamamoto_hakuha',
-                        'togishi_norikazu'
+                        'togishi_norikazu',
+                        'kawaii_hachimi',
                     ]
                 },
                 {
@@ -75,7 +76,9 @@ module.exports = {
                     children: [
                         'honbu_metropolis',
                         'song_of_nambu',
-                        'nambu_army'
+                        'nambu_army',
+                        'takezuka_koku',
+                        'takezuka_group',
                     ]
                 }
             ],
@@ -92,7 +95,7 @@ module.exports = {
                         'constitution',
                         'party_constitution',
                         'group_leadership_law',
-                        'special_zone_law'
+                        'special_zone_law',
                     ]
                 },
                 {
@@ -101,13 +104,13 @@ module.exports = {
                         {
                             title: '南武联合党中央办公厅',
                             children: [
-                                'further_promoting_construction_of_planned_economy'
+                                'further_promoting_construction_of_planned_economy',
                             ]
                         },
                         {
                             title: '南武民主共和国中央发展规划委员会',
                             children: [
-                                'reform_of_group_leadership_system_in_kaijitsu'
+                                'reform_of_group_leadership_system_in_kaijitsu',
                             ]
                         }
                     ]
